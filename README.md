@@ -1,2 +1,2 @@
 # Bio-NER
-Project related to NER on biomedical data
+Research project on gene name extraction using NER to detect relationship between DNA methylation and neurogenerative diseases
