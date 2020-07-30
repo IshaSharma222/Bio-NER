@@ -1,8 +1,9 @@
 # Bio-NER
 Research project on gene name extraction using NER to detect relationship between DNA methylation and neurogenerative diseases and also study novel coronavirus disease
+![alt text](https://miro.medium.com/max/3200/0*TxEd49EPbIvRav7m.jpg)
 ## Project Summary
 # Title- Research Project on gene name extraction
-# Goal- Use NLP to detect the relationship between DNA methylation and neurodegenerative diseases and also study the causes and risk factors of COVID-19
+## Goal- Use NLP to detect the relationship between DNA methylation and neurodegenerative diseases and also study the causes and risk factors of COVID-19
 Individual Progress:
  Overview -
 1. Read two research papers- Ohta T, Pyysalo S, Miwa M, Tsujii J. Event
